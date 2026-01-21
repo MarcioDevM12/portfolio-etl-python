@@ -1,0 +1,30 @@
+==================================================
+RELATÓRIO DO PROCESSAMENTO ETL
+==================================================
+
+Data/hora: 20260120_203231
+Total de registros: 6
+
+COLUNAS DISPONÍVEIS:
+  • id
+  • nome
+  • email
+  • idade
+  • cidade
+  • saldo
+  • status_saldo
+  • mensagem
+  • processado_em
+
+ESTATÍSTICAS:
+  • Saldo total: R$16002.00
+  • Saldo médio: R$2667.00
+  • Idade média: 33.8 anos
+
+PRIMEIRAS 5 LINHAS:
+   id             nome              email  idade          cidade    saldo status_saldo                                            mensagem        processado_em
+0   1        Ana Silva      ana@email.com     28       São Paulo  2500.50        MÉDIO        Olá Ana Silva! Seus dados foram processados.  2026-01-20 20:32:31
+1   2    Carlos Santos   carlos@email.com     35  Rio de Janeiro  1800.00        MÉDIO    Olá Carlos Santos! Seus dados foram processados.  2026-01-20 20:32:31
+2   3     Beatriz Lima  beatriz@email.com     42  Belo Horizonte  3200.75         ALTO     Olá Beatriz Lima! Seus dados foram processados.  2026-01-20 20:32:31
+3   4    Rodrigo Costa  rodrigo@email.com     31        Curitiba  1500.00        MÉDIO    Olá Rodrigo Costa! Seus dados foram processados.  2026-01-20 20:32:31
+4   5  Juliana Pereira  juliana@email.com     29    Porto Alegre  4100.25         ALTO  Olá Juliana Pereira! Seus dados foram processados.  2026-01-20 20:32:31
