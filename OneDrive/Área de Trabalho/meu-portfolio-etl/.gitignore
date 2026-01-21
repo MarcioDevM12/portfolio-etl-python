@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NOSSO PROJETO - Não subir dados sensíveis ou grandes
+data/output/*          # Não subir resultados processados
+data/backup/*          # Não subir backups
+logs/*                 # Não subir logs
+*.log                  # Não subir arquivos de log
+
+# Mas manter a estrutura de pastas vazia
+!data/output/.gitkeep
+!data/backup/.gitkeep
+!logs/.gitkeep
+
+# Dados de entrada de exemplo (opcional manter)
+# data/input/clientes.csv  # Descomente se quiser subir o CSV exemplo

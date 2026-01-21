@@ -1,0 +1,68 @@
+[
+  {
+    "id":1,
+    "nome":"Ana Silva",
+    "email":"ana@email.com",
+    "idade":28,
+    "cidade":"São Paulo",
+    "saldo":2500.5,
+    "status_saldo":"MÉDIO",
+    "mensagem":"Olá Ana Silva! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  },
+  {
+    "id":2,
+    "nome":"Carlos Santos",
+    "email":"carlos@email.com",
+    "idade":35,
+    "cidade":"Rio de Janeiro",
+    "saldo":1800.0,
+    "status_saldo":"MÉDIO",
+    "mensagem":"Olá Carlos Santos! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  },
+  {
+    "id":3,
+    "nome":"Beatriz Lima",
+    "email":"beatriz@email.com",
+    "idade":42,
+    "cidade":"Belo Horizonte",
+    "saldo":3200.75,
+    "status_saldo":"ALTO",
+    "mensagem":"Olá Beatriz Lima! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  },
+  {
+    "id":4,
+    "nome":"Rodrigo Costa",
+    "email":"rodrigo@email.com",
+    "idade":31,
+    "cidade":"Curitiba",
+    "saldo":1500.0,
+    "status_saldo":"MÉDIO",
+    "mensagem":"Olá Rodrigo Costa! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  },
+  {
+    "id":5,
+    "nome":"Juliana Pereira",
+    "email":"juliana@email.com",
+    "idade":29,
+    "cidade":"Porto Alegre",
+    "saldo":4100.25,
+    "status_saldo":"ALTO",
+    "mensagem":"Olá Juliana Pereira! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  },
+  {
+    "id":6,
+    "nome":"Fernando Alves",
+    "email":"fernando@email.com",
+    "idade":38,
+    "cidade":"Salvador",
+    "saldo":2900.5,
+    "status_saldo":"MÉDIO",
+    "mensagem":"Olá Fernando Alves! Seus dados foram processados.",
+    "processado_em":"2026-01-20 20:32:31"
+  }
+]

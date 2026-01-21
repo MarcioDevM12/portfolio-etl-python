@@ -1,0 +1,7 @@
+﻿id,nome,email,idade,cidade,saldo,status_saldo,mensagem,processado_em
+1,Ana Silva,ana@email.com,28,São Paulo,2500.5,MÉDIO,Olá Ana Silva! Seus dados foram processados.,2026-01-20 20:32:31
+2,Carlos Santos,carlos@email.com,35,Rio de Janeiro,1800.0,MÉDIO,Olá Carlos Santos! Seus dados foram processados.,2026-01-20 20:32:31
+3,Beatriz Lima,beatriz@email.com,42,Belo Horizonte,3200.75,ALTO,Olá Beatriz Lima! Seus dados foram processados.,2026-01-20 20:32:31
+4,Rodrigo Costa,rodrigo@email.com,31,Curitiba,1500.0,MÉDIO,Olá Rodrigo Costa! Seus dados foram processados.,2026-01-20 20:32:31
+5,Juliana Pereira,juliana@email.com,29,Porto Alegre,4100.25,ALTO,Olá Juliana Pereira! Seus dados foram processados.,2026-01-20 20:32:31
+6,Fernando Alves,fernando@email.com,38,Salvador,2900.5,MÉDIO,Olá Fernando Alves! Seus dados foram processados.,2026-01-20 20:32:31
