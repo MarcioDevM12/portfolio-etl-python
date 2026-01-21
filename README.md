@@ -72,4 +72,16 @@ Este projeto implementa um pipeline ETL (Extract, Transform, Load) completo para
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/seu-usuario/portfolio-etl-python.git
+
 cd portfolio-etl-python
+
+## 👨‍💻 Autor
+
+**Márcio Dias**  
+[![GitHub](https://img.shields.io/badge/GitHub-@MarcioDevM12-black)](https://github.com/MarcioDevM12)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-blue)](https://linkedin.com/in/seu-perfil-aqui)  
+
+**Contato:**  
+📧 Email: marciodiasm12@exemplo.com  
+🔗 Portfólio: https://marciodevm12.github.io  
+💼 GitHub: https://github.com/MarcioDevM12  
